@@ -1,0 +1,14 @@
+# Logs
+*.log
+# Sensitive data
+secrets.py 
+env
+*.env
+# IDE
+.idea
+# Build
+out/
+__pycache__/
+
+# Dependencies
+venv
